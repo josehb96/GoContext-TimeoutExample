@@ -9,11 +9,5 @@ The provided code example in this repository demonstrates how to effectively use
 ## Usage
 Developers can refer to the code example in this repository to understand the implementation of Golang context with a timeout. They can use this example as a reference when working on projects that involve concurrent operations and the need to manage timeouts effectively.
 
-## Contribution
-Contributions to this repository are welcome. Developers can contribute by suggesting improvements to the existing code example, adding new examples, or providing feedback on how to enhance the usage of Golang context with a timeout in different scenarios.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 The code example in this repository is inspired by the importance of Golang context and timeouts in handling concurrent operations. Special thanks to the Golang community for their valuable insights and contributions to the development of this example.
